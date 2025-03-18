@@ -1,0 +1,63 @@
+{
+  "item.createclothes.crown": "Crown",
+  "item.createclothes.bucket_hat": "Bucket Hat",
+  "item.createclothes.cap": "Cap",
+
+  "item.createclothes.officer_cap": "Officer Cap",
+  "item.createclothes.officer_tunic": "Officer Tunic",
+
+  "item.createclothes.tricorn": "Tricorn",
+  "item.createclothes.redcoat": "Redcoat",
+
+  "item.createclothes.black_boots": "Black Boots",
+  "item.createclothes.gray_boots": "Gray Boots",
+  "item.createclothes.brown_boots": "Brown Boots",
+  "item.createclothes.green_boots": "Green Boots",
+
+  "item.createclothes.plains_helmet": "Plains Helmet",
+  "item.createclothes.plains_tunic": "Plains Tunic",
+  "item.createclothes.plains_pants": "Plains Pants",
+  "item.createclothes.plains_boots": "Plains Boots",
+
+  "item.createclothes.forest_helmet": "Forest Helmet",
+  "item.createclothes.forest_vest": "Forest Vest",
+  "item.createclothes.forest_pants": "Forest Pants",
+  "item.createclothes.forest_boots": "Forest Boots",
+
+  "item.createclothes.taiga_helmet": "Taiga Helmet",
+  "item.createclothes.taiga_tunic": "Taiga Tunic",
+  "item.createclothes.taiga_pants": "Taiga Pants",
+  "item.createclothes.taiga_boots": "Taiga Boots",
+
+  "item.createclothes.savanna_helmet": "Savanna Helmet",
+  "item.createclothes.savanna_tunic": "Savanna Tunic",
+  "item.createclothes.savanna_pants": "Savanna Pants",
+  "item.createclothes.savanna_boots": "Savanna Boots",
+
+  "item.createclothes.desert_helmet": "Desert Helmet",
+  "item.createclothes.desert_tunic": "Desert Tunic",
+  "item.createclothes.desert_pants": "Desert Pants",
+  "item.createclothes.desert_boots": "Desert Boots",
+
+  "item.createclothes.snow_helmet": "Snow Helmet",
+  "item.createclothes.snow_coat": "Snow Coat",
+  "item.createclothes.snow_pants": "Snow Pants",
+  "item.createclothes.snow_boots": "Snow Boots",
+
+  "item.createclothes.water_helmet": "Water Helmet",
+  "item.createclothes.water_tunic": "Water Tunic",
+  "item.createclothes.water_pants": "Water Pants",
+  "item.createclothes.water_boots": "Water Boots",
+
+  "item.createclothes.mesa_helmet": "Mesa Helmet",
+  "item.createclothes.mesa_tunic": "Mesa Tunic",
+  "item.createclothes.mesa_pants": "Mesa Pants",
+  "item.createclothes.mesa_boots": "Mesa Boots",
+
+  "item.createclothes.dirt_helmet": "Dirt Helmet",
+  "item.createclothes.dirt_tunic": "Dirt Tunic",
+  "item.createclothes.dirt_pants": "Dirt Pants",
+  "item.createclothes.dirt_boots": "Dirt Boots",
+
+  "creativetab.create_clothes": "Create Clothes"
+}
