@@ -59,5 +59,17 @@
   "item.createclothes.dirt_pants": "Dirt Pants",
   "item.createclothes.dirt_boots": "Dirt Boots",
 
+  "item.createclothes.cloth": "Cloth",
+  "item.createclothes.sturdy_cloth": "Sturdy Cloth",
+  "item.createclothes.plains_cloth": "Plains Cloth",
+  "item.createclothes.forest_cloth": "Forest Cloth",
+  "item.createclothes.taiga_cloth": "Taiga Cloth",
+  "item.createclothes.savanna_cloth": "Savanna Cloth",
+  "item.createclothes.desert_cloth": "Desert Cloth",
+  "item.createclothes.snow_cloth": "Snow Cloth",
+  "item.createclothes.water_cloth": "Water Cloth",
+  "item.createclothes.mesa_cloth": "Mesa Cloth",
+  "item.createclothes.dirt_cloth": "Dirt Cloth",
+
   "creativetab.create_clothes": "Create Clothes"
 }

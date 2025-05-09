@@ -18,8 +18,8 @@ public class CreateClothesModTabs {
     static {
         REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, "createclothes");
         CREATECLOTHES = REGISTRY.register("create_clothes", () -> {
-            return CreativeModeTab.builder().title(Component.translatable("item_group.createclothes.createclothes")).icon(() -> {
-                return new ItemStack((ItemLike) CreateClothesModItems.CROWN.get());
+            return CreativeModeTab.builder().title(Component.translatable("creativetab.create_clothes")).icon(() -> {
+                return new ItemStack((ItemLike) CreateClothesModItems.OFFICER_CAP.get());
             }).displayItems((parameters, tabData) -> {
                 tabData.accept((ItemLike) CreateClothesModItems.CROWN.get());
                 tabData.accept((ItemLike) CreateClothesModItems.CAP.get());
@@ -68,6 +68,17 @@ public class CreateClothesModTabs {
                 tabData.accept((ItemLike) CreateClothesModItems.DIRT_TUNIC.get());
                 tabData.accept((ItemLike) CreateClothesModItems.DIRT_PANTS.get());
                 tabData.accept((ItemLike) CreateClothesModItems.DIRT_BOOTS.get());
+                tabData.accept((ItemLike) CreateClothesModItems.CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.STURDY_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.PLAINS_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.FOREST_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.TAIGA_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.SAVANNA_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.DESERT_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.SNOW_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.MESA_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.DIRT_CLOTH.get());
+                tabData.accept((ItemLike) CreateClothesModItems.WATER_CLOTH.get());
             }).build();
         });
     }

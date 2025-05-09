@@ -57,6 +57,17 @@ public class CreateClothesModItems {
     public static final RegistryObject<Item> DIRT_TUNIC;
     public static final RegistryObject<Item> DIRT_PANTS;
     public static final RegistryObject<Item> DIRT_BOOTS;
+    public static final RegistryObject<Item> CLOTH;
+    public static final RegistryObject<Item> STURDY_CLOTH;
+    public static final RegistryObject<Item> PLAINS_CLOTH;
+    public static final RegistryObject<Item> FOREST_CLOTH;
+    public static final RegistryObject<Item> TAIGA_CLOTH;
+    public static final RegistryObject<Item> SAVANNA_CLOTH;
+    public static final RegistryObject<Item> DESERT_CLOTH;
+    public static final RegistryObject<Item> SNOW_CLOTH;
+    public static final RegistryObject<Item> WATER_CLOTH;
+    public static final RegistryObject<Item> MESA_CLOTH;
+    public static final RegistryObject<Item> DIRT_CLOTH;
 
     public CreateClothesModItems() {
     }
@@ -116,5 +127,16 @@ public class CreateClothesModItems {
         DIRT_TUNIC = REGISTRY.register("dirt_tunic", () -> {return new DirtCamoItem.Chestplate();});
         DIRT_PANTS = REGISTRY.register("dirt_pants", () -> {return new DirtCamoItem.Leggings();});
         DIRT_BOOTS = REGISTRY.register("dirt_boots", () -> {return new DirtCamoItem.Boots();});
+        CLOTH = REGISTRY.register("cloth", () -> new Item(new Item.Properties()));
+        STURDY_CLOTH = REGISTRY.register("sturdy_cloth", () -> new Item(new Item.Properties()));
+        PLAINS_CLOTH = REGISTRY.register("plains_cloth", () -> new Item(new Item.Properties()));
+        FOREST_CLOTH = REGISTRY.register("forest_cloth", () -> new Item(new Item.Properties()));
+        TAIGA_CLOTH = REGISTRY.register("taiga_cloth", () -> new Item(new Item.Properties()));
+        SAVANNA_CLOTH = REGISTRY.register("savanna_cloth", () -> new Item(new Item.Properties()));
+        DESERT_CLOTH = REGISTRY.register("desert_cloth", () -> new Item(new Item.Properties()));
+        SNOW_CLOTH = REGISTRY.register("snow_cloth", () -> new Item(new Item.Properties()));
+        WATER_CLOTH = REGISTRY.register("water_cloth", () -> new Item(new Item.Properties()));
+        MESA_CLOTH = REGISTRY.register("mesa_cloth", () -> new Item(new Item.Properties()));
+        DIRT_CLOTH = REGISTRY.register("dirt_cloth", () -> new Item(new Item.Properties()));
     }
 }

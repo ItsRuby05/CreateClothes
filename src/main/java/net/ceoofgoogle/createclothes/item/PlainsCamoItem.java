@@ -32,7 +32,7 @@ public abstract class PlainsCamoItem extends ArmorItem {
             }
 
             public int getDefenseForType(ArmorItem.Type type) {
-                return (new int[]{2, 5, 8, 3})[type.getSlot().getIndex()];
+                return (new int[]{3, 6, 7, 8})[type.getSlot().getIndex()];
             }
 
             public int getEnchantmentValue() {
