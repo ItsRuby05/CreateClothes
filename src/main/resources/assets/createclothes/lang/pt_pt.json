@@ -1,0 +1,75 @@
+{
+  "item.createclothes.crown": "Coroa",
+  "item.createclothes.bucket_hat": "Chapéu de Balde",
+  "item.createclothes.cap": "Boina",
+
+  "item.createclothes.officer_cap": "Chapéu de Oficial",
+  "item.createclothes.officer_tunic": "Túnica de Oficiail",
+
+  "item.createclothes.tricorn": "Tricórnio",
+  "item.createclothes.redcoat": "Farda Vermelha",
+
+  "item.createclothes.black_boots": "Botas Pretas",
+  "item.createclothes.gray_boots": "Botas Cinzentas",
+  "item.createclothes.brown_boots": "Botas Castanhas",
+  "item.createclothes.green_boots": "Botas Verdes",
+
+  "item.createclothes.plains_helmet": "Capacete da Planície",
+  "item.createclothes.plains_tunic": "Túnica da Planície",
+  "item.createclothes.plains_pants": "Calças da Planície",
+  "item.createclothes.plains_boots": "Botas da Planície",
+
+  "item.createclothes.forest_helmet": "Capacete de Floresta",
+  "item.createclothes.forest_vest": "Veste de Floresta",
+  "item.createclothes.forest_pants": "Calças de Floresta",
+  "item.createclothes.forest_boots": "Botas de Floresta",
+
+  "item.createclothes.taiga_helmet": "Capacete da Taiga",
+  "item.createclothes.taiga_tunic": "Túnica da Taiga",
+  "item.createclothes.taiga_pants": "Calças da Taiga",
+  "item.createclothes.taiga_boots": "Botas da Taiga",
+
+  "item.createclothes.savanna_helmet": "Capacete da Savana",
+  "item.createclothes.savanna_tunic": "Túnica da Savana",
+  "item.createclothes.savanna_pants": "Calças da Savana",
+  "item.createclothes.savanna_boots": "Botas da Savana",
+
+  "item.createclothes.desert_helmet": "Capacete do Deserto",
+  "item.createclothes.desert_tunic": "Túnica do Deserto",
+  "item.createclothes.desert_pants": "Calças do Deserto",
+  "item.createclothes.desert_boots": "Botas do Deserto",
+
+  "item.createclothes.snow_helmet": "Capacete das Neves",
+  "item.createclothes.snow_coat": "Casaco das Neves",
+  "item.createclothes.snow_pants": "Calças das Neves",
+  "item.createclothes.snow_boots": "Botas das Neves",
+
+  "item.createclothes.water_helmet": "Capacete Marítimo",
+  "item.createclothes.water_tunic": "Túnica  Marítimo",
+  "item.createclothes.water_pants": "Calças Marítimas",
+  "item.createclothes.water_boots": "Botas Marítimas",
+
+  "item.createclothes.mesa_helmet": "Capacete do Árido",
+  "item.createclothes.mesa_tunic": "Túnica do Árido",
+  "item.createclothes.mesa_pants": "Calças do Árido",
+  "item.createclothes.mesa_boots": "Botas do Árido",
+
+  "item.createclothes.dirt_helmet": "Botas da Terra",
+  "item.createclothes.dirt_tunic": "Túnica da Terra",
+  "item.createclothes.dirt_pants": "Calças da Terra",
+  "item.createclothes.dirt_boots": "Botas da Terra",
+
+  "item.createclothes.cloth": "Tecido",
+  "item.createclothes.sturdy_cloth": "Tecido Resistente",
+  "item.createclothes.plains_cloth": "Tecido das Planícies",
+  "item.createclothes.forest_cloth": "Tecido da Floresta",
+  "item.createclothes.taiga_cloth": "Tecido da Taiga",
+  "item.createclothes.savanna_cloth": "Tecido da Savana",
+  "item.createclothes.desert_cloth": "Tecido do Deserto",
+  "item.createclothes.snow_cloth": "Tecido das Neves",
+  "item.createclothes.water_cloth": "Tecido Marítimo",
+  "item.createclothes.mesa_cloth": "Tecido Árido",
+  "item.createclothes.dirt_cloth": "Tecido da Terra",
+
+  "creativetab.create_clothes": "Create Clothes"
+}
